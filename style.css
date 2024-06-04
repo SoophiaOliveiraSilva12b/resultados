@@ -207,7 +207,7 @@ body {
      .resumo button {
          margin-top: 2.4rem;
      }
-     .resumo button: hover{
+     .resumo button:hover{
         background: var(--resultado-bg);
         cursor: pointer;
      }
